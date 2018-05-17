@@ -1,0 +1,10 @@
+c:\users\admin\source\repos\Lista doble\Lista doble\bin\Debug\Lista doble.exe.config
+c:\users\admin\source\repos\Lista doble\Lista doble\bin\Debug\Lista doble.exe
+c:\users\admin\source\repos\Lista doble\Lista doble\bin\Debug\Lista doble.pdb
+c:\users\admin\source\repos\Lista doble\Lista doble\obj\Debug\Lista doble.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\Lista doble\Lista doble\obj\Debug\Lista_doble.Form1.resources
+c:\users\admin\source\repos\Lista doble\Lista doble\obj\Debug\Lista_doble.Properties.Resources.resources
+c:\users\admin\source\repos\Lista doble\Lista doble\obj\Debug\Lista doble.csproj.GenerateResource.Cache
+c:\users\admin\source\repos\Lista doble\Lista doble\obj\Debug\Lista doble.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\Lista doble\Lista doble\obj\Debug\Lista doble.exe
+c:\users\admin\source\repos\Lista doble\Lista doble\obj\Debug\Lista doble.pdb
