@@ -1,0 +1,30 @@
+C:\Users\20135020\source\repos\listas\listas\bin\Debug\listas.exe.config
+C:\Users\20135020\source\repos\listas\listas\bin\Debug\listas.exe
+C:\Users\20135020\source\repos\listas\listas\bin\Debug\listas.pdb
+C:\Users\20135020\source\repos\listas\listas\obj\Debug\listas.csprojResolveAssemblyReference.cache
+C:\Users\20135020\source\repos\listas\listas\obj\Debug\listas.Form1.resources
+C:\Users\20135020\source\repos\listas\listas\obj\Debug\listas.Properties.Resources.resources
+C:\Users\20135020\source\repos\listas\listas\obj\Debug\listas.csproj.GenerateResource.Cache
+C:\Users\20135020\source\repos\listas\listas\obj\Debug\listas.csproj.CoreCompileInputs.cache
+C:\Users\20135020\source\repos\listas\listas\obj\Debug\listas.exe
+C:\Users\20135020\source\repos\listas\listas\obj\Debug\listas.pdb
+D:\Users\Admin\Documents\Visual Studio 2017\listas-master\listas\bin\Debug\listas.exe.config
+D:\Users\Admin\Documents\Visual Studio 2017\listas-master\listas\bin\Debug\listas.exe
+D:\Users\Admin\Documents\Visual Studio 2017\listas-master\listas\bin\Debug\listas.pdb
+D:\Users\Admin\Documents\Visual Studio 2017\listas-master\listas\obj\Debug\listas.csprojResolveAssemblyReference.cache
+D:\Users\Admin\Documents\Visual Studio 2017\listas-master\listas\obj\Debug\listas.Form1.resources
+D:\Users\Admin\Documents\Visual Studio 2017\listas-master\listas\obj\Debug\listas.Properties.Resources.resources
+D:\Users\Admin\Documents\Visual Studio 2017\listas-master\listas\obj\Debug\listas.csproj.GenerateResource.Cache
+D:\Users\Admin\Documents\Visual Studio 2017\listas-master\listas\obj\Debug\listas.csproj.CoreCompileInputs.cache
+D:\Users\Admin\Documents\Visual Studio 2017\listas-master\listas\obj\Debug\listas.exe
+D:\Users\Admin\Documents\Visual Studio 2017\listas-master\listas\obj\Debug\listas.pdb
+E:\listas-master\listas\bin\Debug\listas.exe.config
+E:\listas-master\listas\bin\Debug\listas.exe
+E:\listas-master\listas\bin\Debug\listas.pdb
+E:\listas-master\listas\obj\Debug\listas.csprojResolveAssemblyReference.cache
+E:\listas-master\listas\obj\Debug\listas.Form1.resources
+E:\listas-master\listas\obj\Debug\listas.Properties.Resources.resources
+E:\listas-master\listas\obj\Debug\listas.csproj.GenerateResource.Cache
+E:\listas-master\listas\obj\Debug\listas.csproj.CoreCompileInputs.cache
+E:\listas-master\listas\obj\Debug\listas.exe
+E:\listas-master\listas\obj\Debug\listas.pdb
